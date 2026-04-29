@@ -4,3 +4,5 @@ matplotlib
 seaborn
 sqlalchemy
 ipykernel
+statsmodels
+psycopg2-binary
